@@ -18,7 +18,7 @@ Twitter用户名----Twitter密码----注册邮箱----邮箱密码----AuthToken�
 
 用途自测，只保证商品本身可用。
 
-登陆网址: https://twitter.com/i/flow/login（可以使用 Twitter 账号密码登录）
+登陆网址: https://twitter.com/i/flow/login （可以使用 Twitter 账号密码登录）
 
 账号为随机 IP 注册，且均可正常登录使用
 
@@ -44,7 +44,7 @@ Twitter用户名----Twitter密码----注册邮箱----邮箱密码----AuthToken�
 - 养号：请不要使用（单一IP/设备）进行多个账号登录，极易导致风控；登录后保证该账号登录IP的稳定性，不要频繁更换IP；
 - 辅助资料：购买进行正常基础养号后，如果想使用邮箱，可修改辅助邮箱，以及绑定自己的手机号码。
 - IP 纯净度测试：https://www.ip123.in/ 输入自己IP，进行查询 IP越干净显示值越低。
-- 环境测试：https://whoer.net/，可以查看自身的时区、IP、语言等是否满足正常用户。
+- 环境测试：https://whoer.net/ ，可以查看自身的时区、IP、语言等是否满足正常用户。
 - 其他使用注意事项 请阅读 Twitter相关内容
 
 ## 售后
