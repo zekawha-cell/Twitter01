@@ -52,3 +52,14 @@ Twitter用户名----Twitter密码----注册邮箱----邮箱密码----AuthToken�
 - 卖完绝对不会二次销售卖出的系统自动删除记录
 - 账号正常登陆以后，由于人为原因导致封号不在售后范围之内
 - 若您还有其他问题可以咨询客服协商解决
+
+# 推荐文章
+- [如何简单便捷的批量获取Telegram/纸飞机/电报成品号](https://github.com/zekawha-cell/chat)
+- [如何低价获得一个高质量的Twitter账号](https://github.com/zekawha-cell/Twitter)
+- [注册满一年老号 稳定耐用直登无设备验证 Gmail邮箱 部分有使用痕迹](https://github.com/zekawha-cell/Gmail)
+- [低价出售 高质量账号 谷歌账号购买批发 谷歌邮箱Gmail账号购买](https://github.com/zekawha-cell/a38.top)
+- [Telegram购买全攻略：靠谱账号购买平台推荐、安全避坑指南](https://github.com/zekawha-cell/tg)
+- [Telegram/纸飞机/电报成品号 协议登录](https://github.com/zekawha-cell/Telegram01)
+- [在哪儿买Telegram账号比较靠谱？#telegram老号、#YouTube 老号、#TikTok 老号购买、批发](https://github.com/zekawha-cell/laohaogoumai)
+- [国内如何安全注册使用 YouTube 账号](https://github.com/zekawha-cell/YouTube)
+- [工作室必备——高质量成品 Twitter｜YouTube｜Google账号批发](https://github.com/zekawha-cell/zhanghaopifa)
